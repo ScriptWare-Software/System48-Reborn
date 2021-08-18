@@ -1,0 +1,195 @@
+﻿  Form.cpp
+c:\users\rtf\desktop\system48 reborn\system48reborn\clua1.h(58): warning C4244: '=': conversion from 'DWORD' to 'char', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\func.h(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\func.h(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(248): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(359): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(376): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(392): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(409): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(425): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(437): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(449): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(467): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(484): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(502): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(519): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(537): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(554): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(610): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(632): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(658): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(685): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(688): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(701): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(704): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(717): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(739): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(749): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(762): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(778): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(781): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(804): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(826): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(848): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(904): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1028): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1096): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1123): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1139): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1156): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1165): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1175): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1192): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1207): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1224): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1313): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1390): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1429): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1485): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1544): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1554): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1559): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1560): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1569): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1579): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1598): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1618): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1643): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1672): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1698): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1724): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1741): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1745): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1761): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1785): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1807): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1831): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1849): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1858): warning C4805: '==': unsafe mix of type 'DWORD' and type 'bool' in operation
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1869): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1878): warning C4805: '==': unsafe mix of type 'DWORD' and type 'bool' in operation
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1889): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1911): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1937): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1959): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(1988): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2204): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2229): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2287): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2306): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2325): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2335): warning C4805: '==': unsafe mix of type 'DWORD' and type 'bool' in operation
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2347): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2366): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2386): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2406): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2426): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2453): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2475): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2559): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2578): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2581): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2790): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2803): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\HandleCommands.h(2818): warning C4805: '==': unsafe mix of type 'DWORD' and type 'bool' in operation
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(188): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(301): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(354): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(357): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(370): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(373): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(386): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(408): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(418): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(431): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(447): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(450): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(473): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(495): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(517): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(573): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(697): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(765): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(792): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(808): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(825): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(834): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(844): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(861): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(876): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(893): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(982): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1059): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1075): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1131): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1190): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1200): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1205): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1206): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1215): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1225): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1244): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1264): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1289): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1318): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1344): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1370): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1387): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1391): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1407): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1431): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1453): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1477): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1495): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1504): warning C4805: '==': unsafe mix of type 'DWORD' and type 'bool' in operation
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1515): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1524): warning C4805: '==': unsafe mix of type 'DWORD' and type 'bool' in operation
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1535): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1557): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1583): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1605): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1634): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1820): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1845): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1870): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1889): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1908): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1918): warning C4805: '==': unsafe mix of type 'DWORD' and type 'bool' in operation
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1930): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1949): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1969): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(1989): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(2009): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(2036): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(2058): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(2141): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(2160): warning C4018: '<': signed/unsigned mismatch
+c:\users\rtf\desktop\system48 reborn\system48reborn\ChathookCommands.h(2163): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Form.cpp(399): warning C4018: '<': signed/unsigned mismatch
+Form.cpp(408): warning C4805: '==': unsafe mix of type 'DWORD' and type 'bool' in operation
+Form.cpp(424): warning C4018: '<': signed/unsigned mismatch
+Form.cpp(434): warning C4805: '==': unsafe mix of type 'DWORD' and type 'bool' in operation
+Form.cpp(1220): warning C4007: 'DllMain': must be '__stdcall'
+  Generating code
+c:\users\rtf\desktop\system48 reborn\system48reborn\memory\memory.h(44): warning C4715: 'Memory::Scan': not all control paths return a value
+  827 of 832 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    23 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  System48Reborn.vcxproj -> C:\Users\RTF\Desktop\System48 Reborn\Release\System48Reborn.dll
